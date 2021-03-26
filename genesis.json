@@ -1,0 +1,18 @@
+{
+  "config": {
+    "chainId": 5327,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "ethash": {}
+  },
+  "difficulty": "1",
+  "gasLimit": "8000000",
+  "alloc": {
+    "4e35DcB2D17513dcbF9d7f969218A54AcF044dEc": { "balance": "50000000000000000000000000" }
+  }
+}
